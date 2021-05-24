@@ -27,7 +27,7 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
-.main-screen {
+.setting {
   position: relative;
   bottom: -70px;
 }
