@@ -39,3 +39,14 @@
 .second {
   background-color: black;
 }
+.icon-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  align-items: center;
+}
+.icon-row__icon {
+  width: 25%;
+  height: 100px;
+  position: relative;
+}
