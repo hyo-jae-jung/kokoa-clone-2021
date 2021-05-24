@@ -70,6 +70,10 @@
   border-radius: 10px;
   position: relative;
 }
+.open-post__photo img {
+  width: 120px;
+  height: 120px;
+}
 .open-post__heart-count {
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
